@@ -1,4 +1,4 @@
-const CACHE_NAME = 'panda-kids-v1.1';
+const CACHE_NAME = 'panda-kids-v1';
 const urlsToCache = [
   'index.html',
   'manifest.json',
