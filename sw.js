@@ -1,4 +1,4 @@
-const CACHE_NAME = 'memoria-animales-v1';
+const CACHE_NAME = 'Panda-Kids-v1.1';
 const urlsToCache = [
   'index.html',
   'manifest.json',
